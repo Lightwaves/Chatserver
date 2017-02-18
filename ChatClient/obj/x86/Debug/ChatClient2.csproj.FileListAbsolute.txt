@@ -1,0 +1,1 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\bin\Debug\WindowsApplication.exe.config

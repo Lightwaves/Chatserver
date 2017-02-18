@@ -1,0 +1,11 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\bin\Release\ChatClient.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\Release\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\Release\ChatClient.Form1.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\Release\ChatClient.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\Release\ChatClient.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\Release\ChatClient.pdb
